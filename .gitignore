@@ -19,6 +19,8 @@ rmvpe.pt
 /logs
 /weights
 
+/input
+
 # To set a Python version for the project
 .tool-versions
 
